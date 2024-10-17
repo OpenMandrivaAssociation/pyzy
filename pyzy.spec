@@ -9,7 +9,7 @@ Version:	0.1.0
 Release:	2
 License:	LGPLv2+
 Group:		System/Internationalization
-Url:		http://code.google.com/p/pyzy
+Url:		https://code.google.com/p/pyzy
 Source0:	http://pyzy.googlecode.com/files/%{name}-%{version}.tar.gz
 Source1:	http://pyzy.googlecode.com/files/pyzy-database-1.0.0.tar.bz2
 BuildRequires:	pkgconfig(glib-2.0)
